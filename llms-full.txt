@@ -1,0 +1,62 @@
+# Mecanicadesuelos — Malaga
+
+> Geotechnical engineering services in Malaga, España.
+
+## Services
+- [Aislacion Sismica](https://malaga.mecanicadesuelos.vip/aislacion-sismica/)
+- [Anclajes](https://malaga.mecanicadesuelos.vip/anclajes/)
+- [Calicatas](https://malaga.mecanicadesuelos.vip/calicatas/)
+- [Calicatas Exploratorias](https://malaga.mecanicadesuelos.vip/calicatas-exploratorias/)
+- [Cbr Vial](https://malaga.mecanicadesuelos.vip/cbr-vial/)
+- [Cimentaciones](https://malaga.mecanicadesuelos.vip/cimentaciones/)
+- [Cimentaciones Superficiales](https://malaga.mecanicadesuelos.vip/cimentaciones-superficiales/)
+- [Columnas Grava](https://malaga.mecanicadesuelos.vip/columnas-grava/)
+- [Densidad Cono Arena](https://malaga.mecanicadesuelos.vip/densidad-cono-arena/)
+- [Ensayo Cpt](https://malaga.mecanicadesuelos.vip/ensayo-cpt/)
+- [Ensayo Triaxial](https://malaga.mecanicadesuelos.vip/ensayo-triaxial/)
+- [Ensayos Proctor](https://malaga.mecanicadesuelos.vip/ensayos-proctor/)
+- [Estabilidad Taludes](https://malaga.mecanicadesuelos.vip/estabilidad-taludes/)
+- [Excavaciones Profundas](https://malaga.mecanicadesuelos.vip/excavaciones-profundas/)
+- [Excavaciones Subterraneo](https://malaga.mecanicadesuelos.vip/excavaciones-subterraneo/)
+- [Exploracion](https://malaga.mecanicadesuelos.vip/exploracion/)
+- [Geofisica](https://malaga.mecanicadesuelos.vip/geofisica/)
+- [Geotecnia Vial](https://malaga.mecanicadesuelos.vip/geotecnia-vial/)
+- [Granulometria](https://malaga.mecanicadesuelos.vip/granulometria/)
+- [Grouting](https://malaga.mecanicadesuelos.vip/grouting/)
+- [Inyecciones](https://malaga.mecanicadesuelos.vip/inyecciones/)
+- [Laboratorio In Situ](https://malaga.mecanicadesuelos.vip/laboratorio-in-situ/)
+- [Laboratorio Lab](https://malaga.mecanicadesuelos.vip/laboratorio-lab/)
+- [Licuefaccion](https://malaga.mecanicadesuelos.vip/licuefaccion/)
+- [Limites Atterberg](https://malaga.mecanicadesuelos.vip/limites-atterberg/)
+- [Losa De Cimentacion](https://malaga.mecanicadesuelos.vip/losa-de-cimentacion/)
+- [Losas Fundacion](https://malaga.mecanicadesuelos.vip/losas-fundacion/)
+- [Masw](https://malaga.mecanicadesuelos.vip/masw/)
+- [Masw Vs30](https://malaga.mecanicadesuelos.vip/masw-vs30/)
+- [Mejoramiento](https://malaga.mecanicadesuelos.vip/mejoramiento/)
+- [Microzonificacion Sismica](https://malaga.mecanicadesuelos.vip/microzonificacion-sismica/)
+- [Monitoreo Excavaciones](https://malaga.mecanicadesuelos.vip/monitoreo-excavaciones/)
+- [Muros Contencion](https://malaga.mecanicadesuelos.vip/muros-contencion/)
+- [Pavimento Flexible](https://malaga.mecanicadesuelos.vip/pavimento-flexible/)
+- [Pavimento Rigido](https://malaga.mecanicadesuelos.vip/pavimento-rigido/)
+- [Permeabilidad In Situ](https://malaga.mecanicadesuelos.vip/permeabilidad-in-situ/)
+- [Pilotes](https://malaga.mecanicadesuelos.vip/pilotes/)
+- [Placa De Carga](https://malaga.mecanicadesuelos.vip/placa-de-carga/)
+- [Refraccion Sismica](https://malaga.mecanicadesuelos.vip/refraccion-sismica/)
+- [Resistividad](https://malaga.mecanicadesuelos.vip/resistividad/)
+- [Resistividad Electrica Sev](https://malaga.mecanicadesuelos.vip/resistividad-electrica-sev/)
+- [Sismica](https://malaga.mecanicadesuelos.vip/sismica/)
+- [Sondaje Spt](https://malaga.mecanicadesuelos.vip/sondaje-spt/)
+- [Sondajes Spt](https://malaga.mecanicadesuelos.vip/sondajes-spt/)
+- [Taludes](https://malaga.mecanicadesuelos.vip/taludes/)
+- [Tomografia Sismica](https://malaga.mecanicadesuelos.vip/tomografia-sismica/)
+- [Triaxial](https://malaga.mecanicadesuelos.vip/triaxial/)
+- [Tuneles Suelo Blando](https://malaga.mecanicadesuelos.vip/tuneles-suelo-blando/)
+- [Vibrocompactacion](https://malaga.mecanicadesuelos.vip/vibrocompactacion/)
+- [Zapatas](https://malaga.mecanicadesuelos.vip/zapatas/)
+
+## Contact
+- Website: https://malaga.mecanicadesuelos.vip/
+
+## About
+This site provides geotechnical engineering services in Malaga, España.
+Compliant with local and international standards (ASTM, ISO, country-specific norms).
